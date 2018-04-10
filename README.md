@@ -1,8 +1,7 @@
 # PAT-B
 PAT乙级真题解答
 
-PAT (Basic Level) Practice WebSite: https://www.patest.cn/contests
-
+PAT (Basic Level) Practice WebSite: https://www.patest.cn/contests/pat-b-practise
 
 ---
 
